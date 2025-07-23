@@ -33,7 +33,8 @@
 
 <h2> Education</h2>
 
-- Current: Masters in Autonomous Systems, Hochschule Bonn-Rhein-Sieg (H-BRS), Germany 
+- Current: Masters in Autonomous Systems, Hochschule Bonn-Rhein-Sieg (H-BRS), Germany
+- Erasmus+: The University of Split, Croatia
 - Previous: Bachelors of technology in Mechatronics Engineering, Symbiosis Skills and Professional University, India
 
 
