@@ -5,6 +5,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Arnold-Dsouza.Arnold-Dsouza)](https://github.com/Arnold-Dsouza)
 [![GitHub followers](https://img.shields.io/github/followers/Arnold-Dsouza.svg?style=social&label=Follow)](https://github.com/Arnold-Dsouza?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Arnold-Dsouza?style=social)](https://github.com/Arnold-Dsouza)
 
 <p align="center">
   <strong>🚀 Want to see my projects in action?</strong><br>
@@ -30,13 +31,13 @@
 </p>
 <br>
 
-<h2>💻 Education</h2>
+<h2> Education</h2>
 
 - Current: Masters in Autonomous Systems, Hochschule Bonn-Rhein-Sieg (H-BRS), Germany 
 - Previous: Bachelors of technology in Mechatronics Engineering, Symbiosis Skills and Professional University, India
 
 
-<h2>👀 Stats</h2>
+<h2> Stats</h2>
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -58,7 +59,7 @@
 
 <br>
 
-<h2>🛠️ Skills & Technologies</h2>
+<h2> Skills & Technologies</h2>
 
 <div align="center">
   
@@ -103,11 +104,11 @@
 
 </div>
 
-<h2> About me⚡:</h2>
+<h2> About me:</h2>
 
 Enthusiastic Autonomous Systems Master's student with a strong foundation in Mechatronics Engineering. Experienced in diverse technical areas, from machine learning and robotics to PLC programming, etc. Committed to collaborative success, seeking opportunities to contribute to dynamic work environments.
 
 
-<h2>📫 How to reach me:</h2>
+<h2> How to reach me:</h2>
 
 <a href="mailto:arnolddsouza1999@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="linkedin.com/in/arnold-dsouza-a169b8195">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://portfolio-website-arnold-dsouzas-projects.vercel.app/">![Portfilio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)</a> 
