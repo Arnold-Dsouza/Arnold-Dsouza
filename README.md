@@ -110,4 +110,4 @@ Enthusiastic Autonomous Systems Master's student with a strong foundation in Mec
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:arnolddsouza1999@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="linkedin.com/in/arnold-dsouza-a169b8195">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://github.com/Arnold-Dsouza">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a> 
+<a href="mailto:arnolddsouza1999@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="linkedin.com/in/arnold-dsouza-a169b8195">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://portfolio-website-arnold-dsouzas-projects.vercel.app/">![Portfilio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)</a> 
