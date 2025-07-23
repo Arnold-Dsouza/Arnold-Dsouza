@@ -5,12 +5,29 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Arnold-Dsouza.Arnold-Dsouza)](https://github.com/Arnold-Dsouza)
 [![GitHub followers](https://img.shields.io/github/followers/Arnold-Dsouza.svg?style=social&label=Follow)](https://github.com/Arnold-Dsouza?tab=followers)
-<a href="https://portfolio-website-arnold-dsouzas-projects.vercel.app/">![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white)</a>
 
+<p align="center">
+  <strong>🚀 Want to see my projects in action?</strong><br>
+  <em>Check out my interactive portfolio with live demos, case studies, and project walkthroughs!</em>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-website-arnold-dsouzas-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/🌟_Explore_My_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ Interactive projects • 📊 Case studies • 🎯 Live demos ✨</sub>
+</p>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81F71D&width=435&lines=Robotics+Engineer+)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81F71D&center=true&vCenter=true&width=435&lines=Robotics+Engineer+%7C+AI+Enthusiast;Masters+in+Autonomous+Systems;Mechatronics+%7C+Machine+Learning" alt="Typing SVG" />
+  </a>
+</p>
 <br>
 
 <h2>💻 Education</h2>
